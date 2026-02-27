@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilukshan Viyapury</h1>
 <h3 align="center">Passionate IT Student | Full-Stack Web Developer | MERN Stack Enthusiast | AI & ML Explorer | Committed to Innovation in User-Centered Systems</h3>
 
-- 🔭 I’m currently working on [Learning management system](https://github.com/Dilukshan285/Learning-Management-System.git)
-
 - 🌱 I’m currently learning **Flutter, React native, Python**
 
 - 📫 How to reach me **dilukshanviyapury25@gmail.com**
